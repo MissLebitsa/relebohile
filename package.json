@@ -1,8 +1,8 @@
 {
-  "name": "krush",
+  "name": "relebohile",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MissLebitsa.github.io/Lebo_09",
+  "homepage": "https://MissLebitsa.github.io/relebohile",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
