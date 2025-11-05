@@ -38,7 +38,7 @@
 }
 
 :root {
-  --header-height: 64px; /* fallback */
+  --header-height: 64px;
 }
 
 .header {
